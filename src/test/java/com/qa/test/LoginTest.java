@@ -17,7 +17,7 @@ public class LoginTest {
 
 	@Test
 	public void test3() {
-		System.out.println("test3");
+		System.out.println("test31");
 	}
 
 
